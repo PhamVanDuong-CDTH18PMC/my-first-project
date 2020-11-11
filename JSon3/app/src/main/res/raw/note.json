@@ -1,0 +1,14 @@
+{
+
+  "ds": [
+    {"tieude": "Tieu de 1",
+      "noidung": "Noi dung 1",
+      "thoigian": "10/11/2020"
+    },
+    {
+      "tieude":"Tieu de 2",
+      "noi dung": "Noi dung 2",
+      "thoigian": "12/11/2020"
+    }
+  ]
+}
